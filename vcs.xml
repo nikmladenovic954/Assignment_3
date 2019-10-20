@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/nikmladenovic954/Mladenovic_A3" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nikmladenovic954/Assignment-3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
